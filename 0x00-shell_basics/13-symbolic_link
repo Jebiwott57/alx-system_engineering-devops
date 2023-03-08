@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s /bin/ls _is_ link_to_.
+ln -s . _is_ link_to_/bin/ls
