@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s . __is__ link_to_/bin/ls
+ln -s /bin/ls __is__ 
