@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $BINARY((tr "base 2" "base 10")) 
+echo $((2#$BINARY))
